@@ -1,1 +1,2 @@
-# Mi segundo repositorio
+# proyectoTech
+Creacion de una pagina web ecommerce
